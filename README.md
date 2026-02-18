@@ -4,7 +4,7 @@ A modern real-time chat application built with React, Node.js, Express, Socket.I
 
 ## 🌐 Live Demo
 
-Check out the live application: []()
+Check out the live application: [https://chatter.aidikhalid.com](https://chatter.aidikhalid.com)
 
 ## ✨ Features
 
